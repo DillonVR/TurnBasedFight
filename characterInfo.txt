@@ -1,0 +1,5 @@
+Prince_Charming 200 Heroic_Strike
+Orc_Grunt 300 Savage_Cleave
+40 60
+20 80
+50 100

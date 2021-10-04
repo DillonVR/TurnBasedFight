@@ -1,0 +1,10 @@
+Prince_Charming(200) will battle Orc_Grunt(300)
+
+
+Prince_Charming Heroicly Strikes Orc_Grunt for 83! New hp = 217
+Orc_Grunt Savagely Cleaves Prince_Charming for 86! New hp = 114
+Prince_Charming Heroicly Strikes Orc_Grunt for 97! New hp = 120
+Orc_Grunt Savagely Cleaves Prince_Charming for 95! New hp = 19
+Prince_Charming Heroicly Strikes Orc_Grunt for 93! New hp = 27
+Orc_Grunt Savagely Cleaves Prince_Charming for 95! New hp = -76
+Orc_Grunt Savagely kills Prince_Charming
